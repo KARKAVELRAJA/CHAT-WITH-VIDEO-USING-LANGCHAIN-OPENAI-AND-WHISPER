@@ -7,3 +7,4 @@ langchain
 faiss-cpu
 git+https://github.com/openai/whisper.git
 langchain-community
+ffmpeg-python
