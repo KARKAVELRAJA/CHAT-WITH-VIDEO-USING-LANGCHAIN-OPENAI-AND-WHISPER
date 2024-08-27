@@ -1,0 +1,9 @@
+streamlit 
+moviepy 
+pytube3 
+yt-dlp 
+langchain_openai 
+langchain 
+faiss-cpu
+git+https://github.com/openai/whisper.git
+langchain-community
